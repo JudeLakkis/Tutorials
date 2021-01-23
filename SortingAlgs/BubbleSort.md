@@ -20,11 +20,11 @@ So we will take the same array of numbers as the gif above and work with that fo
 array = [6, 5, 3, 1, 8, 7, 2, 4]
 
 def bubble_sort(array):
-	n = len(array)
+    n = len(array)
 	for i in range(n):
-		for j in range(0, n-i-1):
-			if array[j] > array[j+1]:
-				array[j], array[j+1 = array[j+1], array[j]
+	    for j in range(0, n-i-1):
+	        if array[j] > array[j+1]:
+		    array[j], array[j+1 = array[j+1], array[j]
 ```
 
 Ok so incase some of that isn't very clear, let's breakdown a couple of the lines.
