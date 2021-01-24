@@ -16,6 +16,7 @@ I understand that it can be a little confusing to grasp initially so here are th
 - Repeat until the array is sorted
 
 Here it is in a nice little GIF:
+
 ![Insertion Sort GIF](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
 
 As I said, it is pretty much how we would sort a deck of cards or a bunch or random numbers in real life. That's all fine and dandy but how would you go about coding this up for an exam/interview question?
