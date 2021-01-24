@@ -25,6 +25,7 @@ def bubble_sort(array):
 		for j in range(0, n-i-1):
 			if array[j] > array[j+1]:
 				array[j], array[j+1 = array[j+1], array[j]
+	return array
 ```
 
 Ok so incase some of that isn't very clear, let's breakdown a couple of the lines.
